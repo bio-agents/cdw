@@ -1,11 +1,3 @@
-{
-  "name": "angualrjs-seed",
-  "description": "A starter project for angular js",
-  "devDependencies": {
-        "phantomjs" : "*",
-        "karma" : "*",
-        "karma-junit-reporter" : "*",    
-        "karma-jasmine" : "*",
-        "karma-ng-scenario" : "*"
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:6dad8a8f3699dbcc54f84a6b9cf730dc2ad1501e96a4eafa0d88ec03a3bdbabe
+size 270
